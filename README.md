@@ -1,1 +1,1 @@
-# Learnable-descriptive-statistics-task
+Included are the codes to calcute measures of dispersion and measures of central tendency
